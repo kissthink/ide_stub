@@ -42,8 +42,8 @@ import (
 	"runtime"
 	"strings"
 
-	_ "code.google.com/p/go.tools/go/gcimporter"
-	"code.google.com/p/go.tools/go/types"
+	_ "github.com/88250/code.google.com/p/go.tools/go/gcimporter"
+	"github.com/88250/code.google.com/p/go.tools/go/types"
 )
 
 const usageDoc = `Find documentation for names.

@@ -15,7 +15,7 @@ import (
 	"os"
 	"strings"
 
-	"code.google.com/p/go.tools/go/types"
+	"github.com/88250/code.google.com/p/go.tools/go/types"
 )
 
 var cmdAstView = &Command{
